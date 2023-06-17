@@ -1,0 +1,13 @@
+.flex{
+    display: flex;
+}
+.jc{
+    justify-content: center;
+}
+.ai{
+    align-items: center;
+}
+.block{
+    display: block;
+
+}
